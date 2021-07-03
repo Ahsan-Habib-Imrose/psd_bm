@@ -217,6 +217,7 @@
     padding: 14px;
     padding-top: 50px;
     transition: all linear .3s;
+    width: 100%;
 }
 #service .service_body .bottom:hover{
     cursor: pointer;
@@ -234,7 +235,6 @@
    
 }
 #service .service_body .bottom p{
-    width: 260px;
     height: 59px;
     font-size: 13px;
     line-height: 24px;
@@ -517,7 +517,7 @@
         padding: 10px 23px;
     }
     .footer_down h3 span{
-        color: red;
+        color: rgb(165, 58, 58);
         text-align: center;
         font-size: 18px;
         line-height: 24px;     
